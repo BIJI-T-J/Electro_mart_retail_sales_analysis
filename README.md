@@ -12,4 +12,5 @@ Electro-Mart is a global electronics retailer. The sales data of 6 years; before
 ### More details are given in the electro_mart_analysis.pdf
 
 ![Screenshot (1166)](https://github.com/user-attachments/assets/5b648e17-74ba-4524-ae9b-bf97ac3e154e)
+#
 ![Screenshot (1167)](https://github.com/user-attachments/assets/6e83214d-95f5-4d0d-a7db-b1d5dae54f9e)
