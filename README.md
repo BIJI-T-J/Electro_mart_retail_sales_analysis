@@ -9,4 +9,4 @@ Electro-Mart is a global electronics retailer. The sales data of 6 years; before
 * Added new columns like year and month from ‘order_date’ column, removed unwanted columns and other changes.
 * Imported data to PowerBI to analyse and create dashboard.
 * Insights are retrieved from dashboard.
-More details are given in the electro_mart_analysis.pdf
+### More details are given in the electro_mart_analysis.pdf
